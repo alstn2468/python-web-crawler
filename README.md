@@ -15,7 +15,7 @@ parser.py의 10번째 줄(parser.py, Line 10)
 request =  requests.get('https://github.com/alstn2468?tab=repositories')
                          ▲     여기에 주소를 설정(Set URL here)      ▲
 ```
-### 3. 크롤링할 웹페이지에서 요소 검사(Scanning for elements in the web to be crawlied)
+### 3. 크롤링할 웹페이지에서 요소 검사(Scanning for elements in the web)
 - - -
 parser.py의 20번째 줄(parser.py, Line 10)
 ```
