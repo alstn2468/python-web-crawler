@@ -4,7 +4,7 @@ Simple Python Web Crawler
 개발자 : 김민수<br/>
 Developer : Kim Min Su
 ---------------------
-![Alt text](images/Logo.png "Optional title")
+![Python](images/Logo.png)
 ## 사용법(instructions)
 
 ### 1. 깃 클론(Git Clone)
@@ -29,3 +29,6 @@ cmd
 cd C:\Users\Beginning\Documents\python\Python_Web_Crawler ◀ parser.py가 있는 경로
 python parser.py / python3 parser.py ◀ 버전에 따라 사용
 ```
+### 5. 실행 결과(Result Images)
+![Command Result](images/1.jpeg)
+![JSON Result](images/2.jpeg)
