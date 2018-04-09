@@ -22,3 +22,9 @@ parser.py의 20번째 줄(parser.py, Line 10)
 repo_titles = soup.select('#user-repositories-list > ul > li > div.d-inline-block.mb-1 > h3 > a')
                             ▲                    여기에 CSS 요소를 설정                      ▲
 ```
+### 4. JSON 형식 지정 및 크롤링(Formatting JSON and Crawling)
+```
+cmd
+cd C:\Users\Beginning\Documents\python\Python_Web_Crawler ◀ parser.py가 있는 경로
+python parser.py / python3 parser.py ◀ 버전에 따라 사용
+```
