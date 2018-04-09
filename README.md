@@ -4,7 +4,7 @@ Simple Python Web Crawler
 개발자 : 김민수<br/>
 Developer : Kim Min Su
 ---------------------
-## ■ 사용법(instructions)
+## 사용법(instructions)
 
 ### 1. 깃 클론(Git Clone)
 - - -
