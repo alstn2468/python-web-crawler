@@ -36,5 +36,5 @@ python parser.py / python3 parser.py ◀ 버전에 따라 사용
 ![JSON Result](images/2.jpg)
 ### 6. License
 - - -
-[MIT License](/LICENSE)
+[MIT License](/LICENSE)<br/>
 Copyright (c) 2018 Kimminsu
