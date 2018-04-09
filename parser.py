@@ -29,14 +29,6 @@ for title in repo_titles:
 with open(os.path.join(BASE_DIR, 'result.json'), 'w+') as json_file:
     json.dump(data, json_file, indent = '\t')
 
-# Saving the Crolling Data to a Text File
-result_file =  open(BASE_DIR + '/result.txt', 'w')
-
-for title in repo_titles:
-    result_file.write(data[''.join((title.text).split())] + '\n')
-
-result_file.close()
-
 # GET HTTP Header
 header = request.headers
 
