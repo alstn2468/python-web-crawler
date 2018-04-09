@@ -25,7 +25,7 @@ data = {}
 for title in repo_titles:
     data[''.join((title.text).split())] = 'https://www.github.com' + title.get('href')
 
-# Saving the Crolling Data to a JSON File
+# Saving the Crawling Data to a JSON File
 with open(os.path.join(BASE_DIR, 'result.json'), 'w+') as json_file:
     json.dump(data, json_file, indent = '\t')
 
