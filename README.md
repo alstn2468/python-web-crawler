@@ -30,5 +30,5 @@ cd C:\Users\Beginning\Documents\python\Python_Web_Crawler ◀ parser.py가 있�
 python parser.py / python3 parser.py ◀ 버전에 따라 사용
 ```
 ### 5. 실행 결과(Result Images)
-![Command Result](images/1.jpeg)
-![JSON Result](images/2.jpeg)
+![Command Result](images/1.jpg)
+![JSON Result](images/2.jpg)
