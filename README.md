@@ -24,11 +24,13 @@ repo_titles = soup.select('#user-repositories-list > ul > li > div.d-inline-bloc
                             ▲                    여기에 CSS 요소를 설정                      ▲
 ```
 ### 4. JSON 형식 지정 및 크롤링(Formatting JSON and Crawling)
+- - -
 ```
 cmd
 cd C:\Users\Beginning\Documents\python\Python_Web_Crawler ◀ parser.py가 있는 경로
 python parser.py / python3 parser.py ◀ 버전에 따라 사용
 ```
 ### 5. 실행 결과(Result Images)
+- - -
 ![Command Result](images/1.jpg)
 ![JSON Result](images/2.jpg)
